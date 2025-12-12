@@ -23,7 +23,7 @@ cpp-dsa-practice → patterns, simple problems
 sql-practice → queries + exercises
 More coming soon as I learn!
 
-🛠 Tech Skills (beginner-friendly):
+🛠 Tech Skills:
 Languages: Python, C++, SQL
 Tools: VS Code, Git, GitHub
 Learning: Pandas, NumPy, Machine Learning basics
