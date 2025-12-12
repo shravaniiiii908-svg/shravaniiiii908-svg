@@ -33,7 +33,7 @@ Consistency > perfection.
 Small daily progress compounds.
 I want my GitHub to reflect my learning journey — not perfection, but growth.
 
-📧 Contact
+📧 Contact:
 You can reach me on GitHub.
 
 🌟 Thanks for visiting!
