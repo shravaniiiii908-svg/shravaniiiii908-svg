@@ -5,17 +5,17 @@ I’m building strong fundamentals so I can move into AI, Machine Learning, and 
 I learn by doing, taking clear notes, and practicing consistently.
 
 🌱 What I’m Learning Right Now :
--Python fundamentals
--Data Structures & Algorithms in C++
--SQL basics & query practice
--Git & GitHub version control
+Python fundamentals,
+Data Structures & Algorithms in C++,
+SQL basics & query practice,
+Git & GitHub version control.
 
 🎯 My Current Goals:
--Build clean foundational coding habits
--Create small beginner-friendly projects
--Improve problem solving through DSA
--Become internship-ready in AI/ML
--Keep my GitHub active and well-organized
+Build clean foundational coding habits,
+Create small beginner-friendly projects,
+Improve problem solving through DSA,
+Become internship-ready in AI/ML,
+Keep my GitHub active and well-organized.
 
 📂 My Repositories:
 python-basics → practice scripts, notes, exercises
