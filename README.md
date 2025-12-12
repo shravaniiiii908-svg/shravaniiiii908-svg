@@ -5,7 +5,7 @@ I’m building strong fundamentals so I can move into AI, Machine Learning, and 
 I learn by doing, taking clear notes, and practicing consistently.
 
 🌱 What I’m Learning Right Now :
--Python fundamentals (via BroCode + structured practice)
+-Python fundamentals
 -Data Structures & Algorithms in C++
 -SQL basics & query practice
 -Git & GitHub version control
